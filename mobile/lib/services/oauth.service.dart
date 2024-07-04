@@ -18,7 +18,7 @@ class OAuthService {
     await _apiService.resolveAndSetEndpoint(serverUrl);
 
     final dto = await _apiService.oAuthApi.startOAuth(
-      OAuthConfigDto(redirectUri: '$callbackUrlScheme:/'),
+      OAuthConfigDto(redirectUri: '$callbackUrlScheme:///'),
     );
     return dto?.url;
   }
