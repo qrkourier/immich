@@ -171,7 +171,7 @@
     "oauth_issuer_url": "발급자 URL",
     "oauth_mobile_redirect_uri": "모바일 리다이렉트 URI",
     "oauth_mobile_redirect_uri_override": "모바일 리다이렉트 URI 오버라이드",
-    "oauth_mobile_redirect_uri_override_description": "'app.immich:/'가 잘못된 리다이렉트 URI인 경우 활성화하세요.",
+    "oauth_mobile_redirect_uri_override_description": "'app.immich:///'가 잘못된 리다이렉트 URI인 경우 활성화하세요.",
     "oauth_scope": "스코프",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "OAuth 로그인 설정 관리",

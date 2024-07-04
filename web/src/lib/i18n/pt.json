@@ -161,7 +161,7 @@
     "oauth_issuer_url": "URL do emissor",
     "oauth_mobile_redirect_uri": "URI de redirecionamento móvel",
     "oauth_mobile_redirect_uri_override": "Substituição de URI de redirecionamento móvel",
-    "oauth_mobile_redirect_uri_override_description": "Ative quando 'app.immich:/' for um URI de redirecionamento inválido.",
+    "oauth_mobile_redirect_uri_override_description": "Ative quando 'app.immich://///' for um URI de redirecionamento inválido.",
     "oauth_scope": "Escopo",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Gerenciar configurações de login do OAuth",

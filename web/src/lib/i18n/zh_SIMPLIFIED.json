@@ -171,7 +171,7 @@
     "oauth_issuer_url": "发行方的网址",
     "oauth_mobile_redirect_uri": "移动端重定向 URI",
     "oauth_mobile_redirect_uri_override": "移动端重定向 URI 覆盖",
-    "oauth_mobile_redirect_uri_override_description": "当 \"app.immich:/\"无效时，启用URL重定向。",
+    "oauth_mobile_redirect_uri_override_description": "当 \"app.immich:///\"无效时，启用URL重定向。",
     "oauth_scope": "范围",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "管理OAuth登录设置",

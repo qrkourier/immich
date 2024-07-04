@@ -171,7 +171,7 @@
     "oauth_issuer_url": "URL de l'émetteur",
     "oauth_mobile_redirect_uri": "URI de redirection mobile",
     "oauth_mobile_redirect_uri_override": "Remplacer l'URI de redirection mobile",
-    "oauth_mobile_redirect_uri_override_description": "Activer lorsque 'app.immich:/' est une URI de redirection non valide.",
+    "oauth_mobile_redirect_uri_override_description": "Activer lorsque 'app.immich:///' est une URI de redirection non valide.",
     "oauth_scope": "Portée",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Gérer les paramètres de connexion OAuth",

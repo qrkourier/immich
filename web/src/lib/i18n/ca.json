@@ -164,7 +164,7 @@
     "oauth_issuer_url": "URL de l'emissor",
     "oauth_mobile_redirect_uri": "URI de redirecció mòbil",
     "oauth_mobile_redirect_uri_override": "",
-    "oauth_mobile_redirect_uri_override_description": "Habilita quan 'app.immich:/' és una URI de redirecció invàlida.",
+    "oauth_mobile_redirect_uri_override_description": "Habilita quan 'app.immich:///' és una URI de redirecció invàlida.",
     "oauth_scope": "Abast",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Gestiona la configuració de l'inici de sessió OAuth",

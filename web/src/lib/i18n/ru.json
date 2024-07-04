@@ -171,7 +171,7 @@
     "oauth_issuer_url": "URL сервера",
     "oauth_mobile_redirect_uri": "URI редиректа для мобильных",
     "oauth_mobile_redirect_uri_override": "Перенаправление URI для мобильных устройств",
-    "oauth_mobile_redirect_uri_override_description": "Включите, если «app.immich:/» не подходит в качестве URI редиректа.",
+    "oauth_mobile_redirect_uri_override_description": "Включите, если «app.immich:///» не подходит в качестве URI редиректа.",
     "oauth_scope": "Разрешения",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Настройки входа через OAuth",

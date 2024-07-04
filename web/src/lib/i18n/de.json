@@ -171,7 +171,7 @@
     "oauth_issuer_url": "Aussteller-URL",
     "oauth_mobile_redirect_uri": "Mobile Umleitungs-URI",
     "oauth_mobile_redirect_uri_override": "Mobile Umleitungs-URI überschreiben",
-    "oauth_mobile_redirect_uri_override_description": "Einschalten, wenn 'app.immich:/' ein ungültiger Redirect-URI ist.",
+    "oauth_mobile_redirect_uri_override_description": "Einschalten, wenn 'app.immich:///' ein ungültiger Redirect-URI ist.",
     "oauth_scope": "Umfang",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "OAuth-Anmeldeeinstellungen verwalten",

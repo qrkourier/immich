@@ -169,7 +169,7 @@
     "oauth_issuer_url": "Utgiverens URL",
     "oauth_mobile_redirect_uri": "Mobil omdirigerings-URI",
     "oauth_mobile_redirect_uri_override": "Mobil omdirigerings-URI overstyring",
-    "oauth_mobile_redirect_uri_override_description": "Aktiver når 'app.immich:/' er en ugyldig omdirigerings-URI.",
+    "oauth_mobile_redirect_uri_override_description": "Aktiver når 'app.immich:///' er en ugyldig omdirigerings-URI.",
     "oauth_scope": "Omfang",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Administrer innstillinger for OAuth-innlogging",

@@ -169,7 +169,7 @@
     "oauth_issuer_url": "Issuer URL",
     "oauth_mobile_redirect_uri": "Mobile redirect URI",
     "oauth_mobile_redirect_uri_override": "Mobile redirect URI override",
-    "oauth_mobile_redirect_uri_override_description": "אפשר כאשר 'app.immich:/' הוא לא כתובת URI חוקית.",
+    "oauth_mobile_redirect_uri_override_description": "אפשר כאשר 'app.immich:///' הוא לא כתובת URI חוקית.",
     "oauth_scope": "Scope",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "נהל הגדרות התחברות עם OAuth",

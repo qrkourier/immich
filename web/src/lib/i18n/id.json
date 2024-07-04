@@ -169,7 +169,7 @@
     "oauth_issuer_url": "URL Penerbit",
     "oauth_mobile_redirect_uri": "URI pengalihan ponsel",
     "oauth_mobile_redirect_uri_override": "Penimpaan URI penerusan ponsel",
-    "oauth_mobile_redirect_uri_override_description": "Aktifkan ketika 'app.immich:/' adalah URL penerusan yang tidak valid.",
+    "oauth_mobile_redirect_uri_override_description": "Aktifkan ketika 'app.immich:///' adalah URL penerusan yang tidak valid.",
     "oauth_scope": "Cakupan",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Kelola pengaturan log masuk OAuth",

@@ -170,7 +170,7 @@
     "oauth_issuer_url": "Toimitsijan URL",
     "oauth_mobile_redirect_uri": "Mobiilin uudellenohjaus-URI",
     "oauth_mobile_redirect_uri_override": "Ohita mobiilin uudelleenohjaus-URI",
-    "oauth_mobile_redirect_uri_override_description": "Ota käyttöön kun 'app.immich:/' -ohjausta ei tueta.",
+    "oauth_mobile_redirect_uri_override_description": "Ota käyttöön kun 'app.immich://///' -ohjausta ei tueta.",
     "oauth_scope": "Skooppi (Scope)",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Hallitse OAuth kirjautumisen asetuksia",

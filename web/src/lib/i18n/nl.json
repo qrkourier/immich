@@ -171,7 +171,7 @@
     "oauth_issuer_url": "Issuer URL",
     "oauth_mobile_redirect_uri": "Omleidings URI voor mobiel",
     "oauth_mobile_redirect_uri_override": "Omleidings URI voor mobiele app overschrijven",
-    "oauth_mobile_redirect_uri_override_description": "Inschakelen wanneer 'app.immich:/' een ongeldige omleidings-URI is.",
+    "oauth_mobile_redirect_uri_override_description": "Inschakelen wanneer 'app.immich://///' een ongeldige omleidings-URI is.",
     "oauth_scope": "Scope",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Beheer OAuth inloginstellingen",

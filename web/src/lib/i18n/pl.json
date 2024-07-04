@@ -171,7 +171,7 @@
     "oauth_issuer_url": "Adres URL wydawcy",
     "oauth_mobile_redirect_uri": "Mobilny adres zwrotny",
     "oauth_mobile_redirect_uri_override": "Zapasowy URI przekierowania mobilnego",
-    "oauth_mobile_redirect_uri_override_description": "Włącz, gdy „app.immich:/” jest nieprawidłowym identyfikatorem URI przekierowania.",
+    "oauth_mobile_redirect_uri_override_description": "Włącz, gdy „app.immich:///” jest nieprawidłowym identyfikatorem URI przekierowania.",
     "oauth_scope": "Zakres",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Zarządzaj ustawieniami logowania OAuth",

@@ -158,7 +158,7 @@
     "oauth_issuer_url": "発行元URL",
     "oauth_mobile_redirect_uri": "モバイル用リダイレクトURI",
     "oauth_mobile_redirect_uri_override": "モバイル用リダイレクトURI（上書き）",
-    "oauth_mobile_redirect_uri_override_description": "\"app.immich:/\" が無効なリダイレクトURIである場合に有効にします。",
+    "oauth_mobile_redirect_uri_override_description": "\"app.immich:///\" が無効なリダイレクトURIである場合に有効にします。",
     "oauth_scope": "スコープ",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "OAuthログイン設定を管理します",

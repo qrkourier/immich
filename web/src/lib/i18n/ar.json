@@ -171,7 +171,7 @@
     "oauth_issuer_url": "عنوان URL الخاص بجهة الإصدار",
     "oauth_mobile_redirect_uri": "عنوان URI لإعادة التوجيه على الهاتف",
     "oauth_mobile_redirect_uri_override": "تجاوز عنوان URI لإعادة التوجيه على الهاتف",
-    "oauth_mobile_redirect_uri_override_description": "قم بتفعيله عندما يكون 'app.immich:/' هو عنوان URI لإعادة التوجيه غير الصالح.",
+    "oauth_mobile_redirect_uri_override_description": "قم بتفعيله عندما يكون 'app.immich:///' هو عنوان URI لإعادة التوجيه غير الصالح.",
     "oauth_scope": "النطاق",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "إدارة إعدادات تسجيل الدخول OAuth",

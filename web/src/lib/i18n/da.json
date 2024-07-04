@@ -163,7 +163,7 @@
     "oauth_issuer_url": "Udsteder-URL",
     "oauth_mobile_redirect_uri": "Mobilomdiregerings-URL",
     "oauth_mobile_redirect_uri_override": "Tilsidesættelse af mobil omdiregerings-URL",
-    "oauth_mobile_redirect_uri_override_description": "Slå til når \"app.immich:/\" er en ugyldig omdiregerings-URL.",
+    "oauth_mobile_redirect_uri_override_description": "Slå til når \"app.immich:///\" er en ugyldig omdiregerings-URL.",
     "oauth_scope": "Omfang",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Administrer OAuth login-indstillinger",

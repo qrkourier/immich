@@ -166,7 +166,7 @@
     "oauth_issuer_url": "வழங்குபவர் URL",
     "oauth_mobile_redirect_uri": "மொபைல் வழிமாற்று URI",
     "oauth_mobile_redirect_uri_override": "மொபைல் வழிமாற்று URI மேலெழுதுதல்",
-    "oauth_mobile_redirect_uri_override_description": "'app.immich:/' தவறான வழிமாற்று URI ஆக இருக்கும்போது இயக்கவும்.",
+    "oauth_mobile_redirect_uri_override_description": "'app.immich:///' தவறான வழிமாற்று URI ஆக இருக்கும்போது இயக்கவும்.",
     "oauth_scope": "வாய்ப்பு",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "OAuth உள்நுழைவு அமைப்புகளை நிர்வகிக்கவும்",

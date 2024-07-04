@@ -163,7 +163,7 @@
     "oauth_issuer_url": "Địa chỉ nhà cung cấp OAuth",
     "oauth_mobile_redirect_uri": "URI chuyển hướng trên thiết bị di động",
     "oauth_mobile_redirect_uri_override": "Ghi đè URI chuyển hướng cho thiết bị di động",
-    "oauth_mobile_redirect_uri_override_description": "Bật khi URI chuyển hướng 'app.immich:/' không hợp lệ.",
+    "oauth_mobile_redirect_uri_override_description": "Bật khi URI chuyển hướng 'app.immich:///' không hợp lệ.",
     "oauth_scope": "Phạm vi",
     "oauth_settings": "OAuth",
     "oauth_settings_description": "Quản lý cài đặt đăng nhập OAuth",
